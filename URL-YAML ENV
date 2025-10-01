@@ -1,0 +1,5 @@
+jobs:
+  JOB-ID:
+    environment:
+        name: ENVIRONMENT-NAME
+        url: URL
